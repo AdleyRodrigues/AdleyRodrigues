@@ -12,7 +12,7 @@
 
 ## 👋 Hello, I'm Adley Castro
 
-**Senior Software Engineer & Tech Lead** com 5+ anos entregando sistemas financeiros de alta disponibilidade. Especialista em transformar requisitos de negócio em arquiteturas escaláveis, código limpo e resultados mensuráveis.
+**Senior Software Engineer & Tech Lead** with 5+ years delivering high-availability financial systems. I specialize in transforming business requirements into scalable architectures, clean code, and measurable results.
 
 🔹 **Remote-first** | 📍 Fortaleza, Brasil | 🌎 Open to international opportunities
 
@@ -31,8 +31,6 @@
 
 <div align="center">
   <a href="https://github.com/AdleyRodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdleyRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdleyRodrigues&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
