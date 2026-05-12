@@ -74,16 +74,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-007ACC?style=for-the-badge&logo=archlinux&logoColor=white)
 
----
-
-## 📌 Highlighted Projects
+<!-- ## 📌 Highlighted Projects
 
 > *Repositories that showcase my expertise in full-stack development, architecture, and performance optimization. Updated automatically.*
 
 <!-- PROJECTS START -->
 <!-- PROJECTS END -->
-
----
 
 ## 📚 Currently Learning & Exploring
 
