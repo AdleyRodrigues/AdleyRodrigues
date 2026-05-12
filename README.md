@@ -78,15 +78,10 @@
 
 ## 📌 Highlighted Projects
 
-> *Repositories that showcase my expertise in full-stack development, architecture, and performance optimization.*
+> *Repositories that showcase my expertise in full-stack development, architecture, and performance optimization. Updated automatically.*
 
-| Project | Stack | What it proves |
-|--------|--------|----------------|
-| [Project 1]() | React, .NET, SQL Server | Dashboard with real-time analytics, RBAC, and optimized queries |
-| [Project 2]() | React, TypeScript, MongoDB, Node.js | Scalable KYC flow with microfrontend architecture |
-| [Project 3]() | .NET Core, Azure DevOps, Cypress | CI/CD pipeline fully automated with E2E tests |
-
-*(Replace the links and descriptions with your actual repositories.)*
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
 
 ---
 
